@@ -1,0 +1,1 @@
+Tiedostot App.css, App.test.js, logo.svg ja reportWebVitals.js voi poistaa sillä niitä emme sovelluksessamme nyt tarvitse.

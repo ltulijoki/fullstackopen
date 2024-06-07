@@ -1,0 +1,11 @@
+POST http://localhost:3001/api/blogs
+Content-Type: application/json
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImxlZXZpQHVybC5maSIsImlkIjoxLCJpYXQiOjE2NzAyNTIzMzN9.1JzdKQ8UMLIXBSS1eGGwFlmsAvWdrGvjlcOdaIKXLq4
+
+{
+  "author": "test",
+  "url": "jotain",
+  "title": "post",
+  "likes": 2,
+  "year": 1991
+}

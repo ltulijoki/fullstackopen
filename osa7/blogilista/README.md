@@ -1,0 +1,1 @@
+# Luku 7, tehtävät 9 ja 18

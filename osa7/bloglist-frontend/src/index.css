@@ -1,0 +1,15 @@
+nav {
+    border-radius: 0 0 10px 10px;
+}
+
+.nav-text {
+    color: white !important;
+}
+
+.short {
+    width: 50%;
+}
+
+.right {
+    float: right;
+}

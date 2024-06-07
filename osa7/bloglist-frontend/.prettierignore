@@ -1,0 +1,11 @@
+node_modules
+.eslintrc.js
+cypress.config.js
+*.json
+*.md
+*.css
+coverage
+cypress/fixtures
+cypress/plugins
+cypress/support
+public

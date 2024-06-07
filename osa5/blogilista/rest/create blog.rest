@@ -1,0 +1,10 @@
+POST http://localhost:3003/api/blogs
+Content-Type: application/json
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRlc3R1c2VyIiwiaWQiOiI2MzRkNGVmY2M3ODM2NjRiOGM3MGNhYTciLCJpYXQiOjE2NjYwMTA4OTQsImV4cCI6MTY2NjAxNDQ5NH0.8mH6httMZ5hI8jkkkXJUNtjLis8c0UUXZz8CPTpNe8g
+
+{
+    "title": "Visual Studio Code is a good editor",
+    "author": "Leevi",
+    "url": "https://code.visualstudio.com/",
+    "likes": 500
+}

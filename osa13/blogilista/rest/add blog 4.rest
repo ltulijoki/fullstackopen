@@ -1,0 +1,11 @@
+POST http://localhost:3001/api/blogs
+Content-Type: application/json
+Authorization: bearer eyJhbGciOiJIUzI1NiJ9.MzRiMTM1OTAtNzYzMC0xMWVkLWJmMzQtZGJmYWMxNTg4ZTZl.uHGuA4TZDP1ZUxPP56EOD7P6zYC7DtWbTROaW49fgVQ
+
+{
+  "author": "leevi",
+  "url": "https",
+  "title": "bloggaaja",
+  "likes": 1000,
+  "year": 2022
+}

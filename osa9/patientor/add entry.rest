@@ -1,0 +1,16 @@
+POST http://localhost:3001/api/patients/1a88df50-65bf-11ed-b6e5-2dac58aab0a3/entries
+Content-Type: application/json
+
+{
+  "date": "2022-11-12",
+  "type": "Hospital",
+  "specialist": "MD house",
+  "diagnoseCodes": [
+    "S62.5"
+  ],
+  "description": "................",
+  "discharge": {
+    "date": "2022-11-12",
+    "criteria": "..................."
+  }
+}
